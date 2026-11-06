@@ -1,0 +1,19 @@
+# Ren'Py compiled scripts and local state
+*.rpyc
+*.rpymc
+cache/
+saves/
+log.txt
+errors.txt
+traceback.txt
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
